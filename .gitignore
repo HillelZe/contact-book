@@ -1,0 +1,16 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+venv/
+.env.*
+
+# VSCode or PyCharm files
+.idea/
+.vscode/
+
+# Test files
+*.csv
+test.csv
